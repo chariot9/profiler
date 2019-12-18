@@ -1,3 +1,5 @@
 ./profiler
 .idea
 go.sum
+profiler
+cmd/cmd

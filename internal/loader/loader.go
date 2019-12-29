@@ -32,10 +32,6 @@ func init() {
 	database = connection
 }
 
-func migrate() {
-	// TODO(Trung): Implement method
-}
-
 func GetDatabase() *gorm.DB {
 	return database
 }
